@@ -1,3 +1,5 @@
+# The security vulnerabilities been detected here are for cyber security vulnerability research and education purposes. Some of them are for vulnerability testing and penetration testing cases!!!
+
 # About Ecommerce shoes
 Hello everyone! This is E-commerce shoes that sell most shoes ranging from trainers and other types. All you just need to do is to check the foot wears online and choose one. Pick the one that is good for you and check out the product online. Although these are what we have right now, there are more shoes that will be introduced in the future.
 This project is my final one that will complete the Full Stack Software Developing Course in Code Institute. 
